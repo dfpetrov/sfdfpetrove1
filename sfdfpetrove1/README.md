@@ -2,8 +2,8 @@
 [![Travis][build-badge]][build]
 
 
-[build-badge]: https://img.shields.io/travis/dfpetrov/sfdfpetrove1/master.png?style=flat-square
-[build]: https://travis-ci.org/dfpetrov/sfdfpetrove1
+[build-badge]: https://img.shields.io/travis/dfpetrov/e1game/master.png?style=flat-square
+[build]: https://travis-ci.org/dfpetrov/e1game
 
 
 Игра висилица 
