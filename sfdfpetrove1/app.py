@@ -1,6 +1,6 @@
 import random
 
-WORDS = ('skillfactory', 'testing', 'blackbox', 'pytest', 'unittest', 'coverage')
+WORDS = ('skillfactory', 'testing', 'blackbox', 'pytest', 'unittest', 'coverage',)
 
 def get_random_word(word_list):
     return random.choice(word_list)
